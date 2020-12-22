@@ -52,6 +52,18 @@
   border-radius: 4px;
 }
 
+body {
+  background-color: #fafafa;
+  color: #222222;
+}
+
+@media(prefers-color-scheme: dark) {
+  body {
+    background-color: #222222;
+      color: #fafafa;
+  }
+}
+
 /* Mobile Rules */
 @media screen and (max-width: 530px) {
   .stateText {
