@@ -1,5 +1,11 @@
 # D3 Homework - Data Journalism and D3
 
+## Hold the phone - Now with Dark Mode support!
+
+![output](https://github.com/eggsnbacon97/D3-Challenge/blob/main/Images/output.png)
+
+## Now We Return to the Assignment...
+
 ![Newsroom](https://media.giphy.com/media/v2xIous7mnEYg/giphy.gif)
 
 ## Background
